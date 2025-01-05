@@ -1,8 +1,8 @@
-# Recipe-Website-Paaji da Dhabba
+# Recipe-Website-Paaji da Dhaba
 
 # Overview:
 
-"Paaji da Dhabba" is a recipe website that showcases a variety of delicious Indian sweets. The website is designed to provide users with easy-to-follow recipes, complete with ingredients, step-by-step instructions, and images of the final dishes.
+"Paaji da Dhaba" is a recipe website that showcases a variety of delicious Indian sweets. The website is designed to provide users with easy-to-follow recipes, complete with ingredients, step-by-step instructions, and images of the final dishes.
 
 
 # Features:
@@ -31,6 +31,6 @@ index.html: The main HTML file containing the structure of the website.
 
 styles.css: The CSS file for styling the website.
 
-![Screenshot 2025-01-05 164809](https://github.com/user-attachments/assets/638d0bec-8264-4fbb-8aa9-7ae3dedb5b2f)
+![Screenshot 2025-01-05 180607](https://github.com/user-attachments/assets/addb7b8b-9d9b-476f-a8e8-82399e064073)
 
-![Screenshot 2025-01-05 164832](https://github.com/user-attachments/assets/6d827c29-161d-4030-95c2-6dec31c18dd5)
+![Screenshot 2025-01-05 180624](https://github.com/user-attachments/assets/7f2aeea2-6305-4376-8cb3-c5f4feb5a64a)
